@@ -1,0 +1,12 @@
+{
+  "name": "scraper-taverniti-final",
+  "version": "1.0.0",
+  "description": "Scraper manual para catálogo Taverniti con selector corregido",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "puppeteer": "^22.8.2"
+  }
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "factura": "18128",
+    "remito": "136053",
+    "fecha": "01/08/2025",
+    "articulos": [
+      {
+        "codigo": "04478",
+        "color": "653",
+        "descripcion": "CHOMBA HOMBRE",
+        "precio_unitario": "$ 21,000.00",
+        "cantidad": "37",
+        "precio_total": "$ 777,000.00",
+        "curva": [
+          {
+            "talle": "M",
+            "cantidad": "10"
+          },
+          {
+            "talle": "L",
+            "cantidad": "4"
+          },
+          {
+            "talle": "XL",
+            "cantidad": "4"
+          },
+          {
+            "talle": "XXL",
+            "cantidad": "10"
+          },
+          {
+            "talle": "XXX",
+            "cantidad": "6"
+          },
+          {
+            "talle": "4XL",
+            "cantidad": "3"
+          }
+        ]
+      },
+      {
+        "codigo": "09234",
+        "color": "632",
+        "descripcion": "REMERA HOMBRE",
+        "precio_unitario": "$ 12,154.00",
+        "cantidad": "5",
+        "precio_total": "$ 60,770.00",
+        "curva": [
+          {
+            "talle": "S",
+            "cantidad": "3"
+          },
+          {
+            "talle": "XXX",
+            "cantidad": "2"
+          }
+        ]
+      },
+      {
+        "codigo": "19772",
+        "color": "668",
+        "descripcion": "CHOMBA HOMBRE",
+        "precio_unitario": "$ 22,000.00",
+        "cantidad": "46",
+        "precio_total": "$ 1,012,000.00",
+        "curva": [
+          {
+            "talle": "S",
+            "cantidad": "4"
+          },
+          {
+            "talle": "M",
+            "cantidad": "6"
+          },
+          {
+            "talle": "L",
+            "cantidad": "8"
+          },
+          {
+            "talle": "XL",
+            "cantidad": "8"
+          },
+          {
+            "talle": "XXL",
+            "cantidad": "8"
+          },
+          {
+            "talle": "XXX",
+            "cantidad": "6"
+          },
+          {
+            "talle": "4XL",
+            "cantidad": "6"
+          }
+        ]
+      },
+      {
+        "codigo": "21562",
+        "color": "601",
+        "descripcion": "REMERA HOMBRE",
+        "precio_unitario": "$ 14,300.00",
+        "cantidad": "30",
+        "precio_total": "$ 429,000.00",
+        "curva": [
+          {
+            "talle": "S",
+            "cantidad": "10"
+          },
+          {
+            "talle": "M",
+            "cantidad": "10"
+          },
+          {
+            "talle": "L",
+            "cantidad": "10"
+          }
+        ]
+      },
+      {
+        "codigo": "21562",
+        "color": "637",
+        "descripcion": "REMERA HOMBRE",
+        "precio_unitario": "$ 14,300.00",
+        "cantidad": "30",
+        "precio_total": "$ 429,000.00",
+        "curva": [
+          {
+            "talle": "S",
+            "cantidad": "10"
+          },
+          {
+            "talle": "M",
+            "cantidad": "10"
+          },
+          {
+            "talle": "L",
+            "cantidad": "10"
+          }
+        ]
+      },
+      {
+        "codigo": "11775",
+        "color": "920",
+        "descripcion": "FALDA MUJER",
+        "precio_unitario": "$ 29,000.00",
+        "cantidad": "37",
+        "precio_total": "$ 1,073,000.00",
+        "curva": [
+          {
+            "talle": "S",
+            "cantidad": "10"
+          },
+          {
+            "talle": "M",
+            "cantidad": "10"
+          },
+          {
+            "talle": "L",
+            "cantidad": "10"
+          },
+          {
+            "talle": "XL",
+            "cantidad": "7"
+          }
+        ]
+      },
+      {
+        "codigo": "6121019-21B",
+        "color": "",
+        "descripcion": "",
+        "precio_unitario": "$ -453,692.40",
+        "cantidad": "1",
+        "precio_total": "$ -453,692.40",
+        "curva": []
+      }
+    ],
+    "subtotal": "$ 3,327,077.60",
+    "iva": "$ 698,686.30",
+    "percepciones": "$ 0.00",
+    "total": "$ 4,025,763.90"
+  }
+]

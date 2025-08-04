@@ -1,0 +1,2468 @@
+[
+  {
+    "nombre": "RUNDEN",
+    "codigo": "Codigo: 00406",
+    "precio": "$35,000.00 - $36,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/00406X1.jpg"
+  },
+  {
+    "nombre": "BLUR",
+    "codigo": "Codigo: 01210",
+    "precio": "$34,505.00 - $36,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/01210X1.jpg"
+  },
+  {
+    "nombre": "BRACK",
+    "codigo": "Codigo: 13328",
+    "precio": "$39,140.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13328X1.jpg"
+  },
+  {
+    "nombre": "KRUG",
+    "codigo": "Codigo: 00476",
+    "precio": "$36,050.00 - $36,300.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/00476X1.jpg"
+  },
+  {
+    "nombre": "GUBI",
+    "codigo": "Codigo: 11782",
+    "precio": "$35,600.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11782X1.jpg"
+  },
+  {
+    "nombre": "ESBÉN",
+    "codigo": "Codigo: 13344",
+    "precio": "$36,256.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13344X1.jpg"
+  },
+  {
+    "nombre": "ZUMANN",
+    "codigo": "Codigo: 13438",
+    "precio": "$36,900.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13438X1.jpg"
+  },
+  {
+    "nombre": "BRAM",
+    "codigo": "Codigo: 13446",
+    "precio": "$35,535.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13446X1.jpg"
+  },
+  {
+    "nombre": "ARWIM",
+    "codigo": "Codigo: 13450",
+    "precio": "$36,565.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13450X1.jpg"
+  },
+  {
+    "nombre": "BOSSA",
+    "codigo": "Codigo: 13552",
+    "precio": "$36,565.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13552X1.jpg"
+  },
+  {
+    "nombre": "BUCKS",
+    "codigo": "Codigo: 13558",
+    "precio": "$35,535.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13558X1.jpg"
+  },
+  {
+    "nombre": "ALENN",
+    "codigo": "Codigo: 13564",
+    "precio": "$35,535.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13564X1.jpg"
+  },
+  {
+    "nombre": "DUN",
+    "codigo": "Codigo: 13580",
+    "precio": "$36,050.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13580X1.jpg"
+  },
+  {
+    "nombre": "BROECK",
+    "codigo": "Codigo: 13596",
+    "precio": "$39,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13596X1.jpg"
+  },
+  {
+    "nombre": "OLIVER",
+    "codigo": "Codigo: 13620",
+    "precio": "$40,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "ALWAN",
+    "codigo": "Codigo: 13788",
+    "precio": "$41,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "BERAT",
+    "codigo": "Codigo: 13842",
+    "precio": "$36,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13842X1.jpg"
+  },
+  {
+    "nombre": "ARTEM",
+    "codigo": "Codigo: 13844",
+    "precio": "$41,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13844X1.jpg"
+  },
+  {
+    "nombre": "KLAUS",
+    "codigo": "Codigo: 13852",
+    "precio": "$37,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "SALAH",
+    "codigo": "Codigo: 13858",
+    "precio": "$36,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "LENI",
+    "codigo": "Codigo: 13872",
+    "precio": "$36,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13872X1.jpg"
+  },
+  {
+    "nombre": "BURKETT",
+    "codigo": "Codigo: 13590",
+    "precio": "$35,535.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13590X1.jpg"
+  },
+  {
+    "nombre": "HOCH",
+    "codigo": "Codigo: 01948",
+    "precio": "$35,600.00 - $37,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/01948X1.jpg"
+  },
+  {
+    "nombre": "PROMA",
+    "codigo": "Codigo: 10160",
+    "precio": "$35,000.00 - $36,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/10160X1.jpg"
+  },
+  {
+    "nombre": "ZARAR",
+    "codigo": "Codigo: 10220",
+    "precio": "$42,230.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/10220X1.jpg"
+  },
+  {
+    "nombre": "HOLDEN",
+    "codigo": "Codigo: 11092",
+    "precio": "$41,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11092X1.jpg"
+  },
+  {
+    "nombre": "TIZIANO",
+    "codigo": "Codigo: 11220",
+    "precio": "$41,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11220X1.jpg"
+  },
+  {
+    "nombre": "BAERUM",
+    "codigo": "Codigo: 11582",
+    "precio": "$35,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11582X1.jpg"
+  },
+  {
+    "nombre": "DRAKE",
+    "codigo": "Codigo: 11596",
+    "precio": "$36,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11596X1.jpg"
+  },
+  {
+    "nombre": "CARTAGO",
+    "codigo": "Codigo: 11752",
+    "precio": "$35,535.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11752X1.jpg"
+  },
+  {
+    "nombre": "BEAR",
+    "codigo": "Codigo: 11962",
+    "precio": "$41,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11962X1.jpg"
+  },
+  {
+    "nombre": "EMIR",
+    "codigo": "Codigo: 11982",
+    "precio": "$36,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11982X1.jpg"
+  },
+  {
+    "nombre": "CRUZ",
+    "codigo": "Codigo: 13220",
+    "precio": "$44,290.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13220X1.jpg"
+  },
+  {
+    "nombre": "COLIN",
+    "codigo": "Codigo: 13452",
+    "precio": "$36,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13452X1.jpg"
+  },
+  {
+    "nombre": "CORLIS",
+    "codigo": "Codigo: 13536",
+    "precio": "$36,977.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13536X1.jpg"
+  },
+  {
+    "nombre": "PETRY",
+    "codigo": "Codigo: 13546",
+    "precio": "$41,715.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "WINBURY",
+    "codigo": "Codigo: 13548",
+    "precio": "$42,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13548X1.jpg"
+  },
+  {
+    "nombre": "CARTER",
+    "codigo": "Codigo: 13594",
+    "precio": "$37,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13594X1.jpg"
+  },
+  {
+    "nombre": "CA MARTEEN",
+    "codigo": "Codigo: 13604",
+    "precio": "$36,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13604X1.jpg"
+  },
+  {
+    "nombre": "GLENN",
+    "codigo": "Codigo: 13618",
+    "precio": "$41,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "GARNER",
+    "codigo": "Codigo: 13622",
+    "precio": "$40,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13622X1.jpg"
+  },
+  {
+    "nombre": "MATICKS",
+    "codigo": "Codigo: 13772",
+    "precio": "$37,400.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13772X1.jpg"
+  },
+  {
+    "nombre": "MONT",
+    "codigo": "Codigo: 13774",
+    "precio": "$37,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "EVEREST",
+    "codigo": "Codigo: 13796",
+    "precio": "$42,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "ZUMA",
+    "codigo": "Codigo: 13798",
+    "precio": "$42,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "TURBOT",
+    "codigo": "Codigo: 13800",
+    "precio": "$42,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "ZHAN",
+    "codigo": "Codigo: 13846",
+    "precio": "$37,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "DUBAI",
+    "codigo": "Codigo: 01428",
+    "precio": "$31,500.00 - $37,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/01428X1.jpg"
+  },
+  {
+    "nombre": "01800",
+    "codigo": "Codigo: 01800",
+    "precio": "$31,000.00 - $37,400.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/01800X1.jpg"
+  },
+  {
+    "nombre": "GRISS",
+    "codigo": "Codigo: 11100",
+    "precio": "$39,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11100X1.jpg"
+  },
+  {
+    "nombre": "ANKER",
+    "codigo": "Codigo: 13026",
+    "precio": "$37,400.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13026X1.jpg"
+  },
+  {
+    "nombre": "BRODY",
+    "codigo": "Codigo: 13380",
+    "precio": "$36,565.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13380X1.jpg"
+  },
+  {
+    "nombre": "COHEN",
+    "codigo": "Codigo: 13442",
+    "precio": "$36,050.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13442X1.jpg"
+  },
+  {
+    "nombre": "ERIC",
+    "codigo": "Codigo: 13456",
+    "precio": "$38,110.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13456X1.jpg"
+  },
+  {
+    "nombre": "SINK",
+    "codigo": "Codigo: 13458",
+    "precio": "$37,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13458X1.jpg"
+  },
+  {
+    "nombre": "ZORZA",
+    "codigo": "Codigo: 13534",
+    "precio": "$36,050.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13534X1.jpg"
+  },
+  {
+    "nombre": "HEROES",
+    "codigo": "Codigo: 13540",
+    "precio": "$37,080.00 - $37,595.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13540X1.jpg"
+  },
+  {
+    "nombre": "DINO",
+    "codigo": "Codigo: 13544",
+    "precio": "$36,565.00 - $37,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13544X1.jpg"
+  },
+  {
+    "nombre": "VERMIRTOR",
+    "codigo": "Codigo: 13586",
+    "precio": "$38,625.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13586X1.jpg"
+  },
+  {
+    "nombre": "CONRAD",
+    "codigo": "Codigo: 13598",
+    "precio": "$36,874.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13598X1.jpg"
+  },
+  {
+    "nombre": "KENT",
+    "codigo": "Codigo: 13600",
+    "precio": "$39,140.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13600X1.jpg"
+  },
+  {
+    "nombre": "LOWELL",
+    "codigo": "Codigo: 13634",
+    "precio": "$43,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13634X1.jpg"
+  },
+  {
+    "nombre": "SLOYER",
+    "codigo": "Codigo: 13638",
+    "precio": "$43,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13638X1.jpg"
+  },
+  {
+    "nombre": "KHANNA",
+    "codigo": "Codigo: 13776",
+    "precio": "$37,400.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13776X1.jpg"
+  },
+  {
+    "nombre": "ORISHA",
+    "codigo": "Codigo: 13780",
+    "precio": "$38,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13780X1.jpg"
+  },
+  {
+    "nombre": "BONATTI",
+    "codigo": "Codigo: 13782",
+    "precio": "$38,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "AMMAR",
+    "codigo": "Codigo: 13794",
+    "precio": "$42,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "GALES",
+    "codigo": "Codigo: 13808",
+    "precio": "$40,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13808X1.jpg"
+  },
+  {
+    "nombre": "JOHANN",
+    "codigo": "Codigo: 13812",
+    "precio": "$37,400.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13812X1.jpg"
+  },
+  {
+    "nombre": "LONDRA",
+    "codigo": "Codigo: 13856",
+    "precio": "$36,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13856X1.jpg"
+  },
+  {
+    "nombre": "VELLER",
+    "codigo": "Codigo: 13860",
+    "precio": "$37,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13860X1.jpg"
+  },
+  {
+    "nombre": "DOBAR",
+    "codigo": "Codigo: 13862",
+    "precio": "$37,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "BRENSON",
+    "codigo": "Codigo: 13864",
+    "precio": "$37,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "FRANKEL",
+    "codigo": "Codigo: 11700",
+    "precio": "$36,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11700X1.jpg"
+  },
+  {
+    "nombre": "PAWET",
+    "codigo": "Codigo: 13030",
+    "precio": "$37,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13030X1.jpg"
+  },
+  {
+    "nombre": "KARTUM",
+    "codigo": "Codigo: 13562",
+    "precio": "$36,900.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "JORDI",
+    "codigo": "Codigo: 13602",
+    "precio": "$38,625.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13602X1.jpg"
+  },
+  {
+    "nombre": "DAHAB",
+    "codigo": "Codigo: 13778",
+    "precio": "$36,500.00 - $37,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13778X1.jpg"
+  },
+  {
+    "nombre": "KARL",
+    "codigo": "Codigo: 13854",
+    "precio": "$36,900.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13854X1.jpg"
+  },
+  {
+    "nombre": "MORAND",
+    "codigo": "Codigo: 13866",
+    "precio": "$37,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "MURAT",
+    "codigo": "Codigo: 13870",
+    "precio": "$37,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "KLASSICH",
+    "codigo": "Codigo: 22002",
+    "precio": "$35,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/22002X1.jpg"
+  },
+  {
+    "nombre": "ISLAND",
+    "codigo": "Codigo: 26662",
+    "precio": "$30,405.13",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "COSMI",
+    "codigo": "Codigo: 26754",
+    "precio": "$31,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "LYM",
+    "codigo": "Codigo: 26756",
+    "precio": "$31,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "ASTIC",
+    "codigo": "Codigo: 26898",
+    "precio": "$31,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "BOB",
+    "codigo": "Codigo: 26902",
+    "precio": "$34,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26902X1.jpg"
+  },
+  {
+    "nombre": "GRIMBA",
+    "codigo": "Codigo: 26904",
+    "precio": "$31,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "MARLON",
+    "codigo": "Codigo: 26906",
+    "precio": "$34,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "ZIMMEL",
+    "codigo": "Codigo: 26908",
+    "precio": "$36,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26908X1.jpg"
+  },
+  {
+    "nombre": "HAZEL",
+    "codigo": "Codigo: 26926",
+    "precio": "$31,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "CUARZO",
+    "codigo": "Codigo: 26202",
+    "precio": "$34,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26202X1.jpg"
+  },
+  {
+    "nombre": "LORETA",
+    "codigo": "Codigo: 26840",
+    "precio": "$30,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "PARAISO",
+    "codigo": "Codigo: 26854",
+    "precio": "$30,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26854X1.jpg"
+  },
+  {
+    "nombre": "CALEGUA",
+    "codigo": "Codigo: 26856",
+    "precio": "$31,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "TAVO",
+    "codigo": "Codigo: 26858",
+    "precio": "$31,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "LIAN",
+    "codigo": "Codigo: 26860",
+    "precio": "$31,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "PENNY",
+    "codigo": "Codigo: 26868",
+    "precio": "$34,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "KALI",
+    "codigo": "Codigo: 26934",
+    "precio": "$31,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "LISCH",
+    "codigo": "Codigo: 02086",
+    "precio": "$36,000.00 - $38,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/02086X1.jpg"
+  },
+  {
+    "nombre": "MUSLIM",
+    "codigo": "Codigo: 22754",
+    "precio": "$31,930.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/22754X1.jpg"
+  },
+  {
+    "nombre": "ETER",
+    "codigo": "Codigo: 26696",
+    "precio": "$32,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26696X1.jpg"
+  },
+  {
+    "nombre": "CALU",
+    "codigo": "Codigo: 26838",
+    "precio": "$29,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "ZANTE",
+    "codigo": "Codigo: 26842",
+    "precio": "$32,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26842X1.jpg"
+  },
+  {
+    "nombre": "TERRI",
+    "codigo": "Codigo: 26844",
+    "precio": "$29,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26844X1.jpg"
+  },
+  {
+    "nombre": "TOICA",
+    "codigo": "Codigo: 26846",
+    "precio": "$30,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26846X1.jpg"
+  },
+  {
+    "nombre": "AVILES",
+    "codigo": "Codigo: 26850",
+    "precio": "$35,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26850X1.jpg"
+  },
+  {
+    "nombre": "TOLEDO",
+    "codigo": "Codigo: 26852",
+    "precio": "$33,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "TOM",
+    "codigo": "Codigo: 26930",
+    "precio": "$38,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "OCEAN",
+    "codigo": "Codigo: 26932",
+    "precio": "$36,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "ARUB",
+    "codigo": "Codigo: 26834",
+    "precio": "$34,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "BARBADOS",
+    "codigo": "Codigo: 26836",
+    "precio": "$31,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26836X1.jpg"
+  },
+  {
+    "nombre": "LIPSI",
+    "codigo": "Codigo: 26882",
+    "precio": "$34,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26882X1.jpg"
+  },
+  {
+    "nombre": "YORK",
+    "codigo": "Codigo: 26888",
+    "precio": "$35,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26888X1.jpg"
+  },
+  {
+    "nombre": "LOIS",
+    "codigo": "Codigo: 26890",
+    "precio": "$34,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26890X1.jpg"
+  },
+  {
+    "nombre": "TRIVIA",
+    "codigo": "Codigo: 26892",
+    "precio": "$29,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26892X1.jpg"
+  },
+  {
+    "nombre": "STAY",
+    "codigo": "Codigo: 26894",
+    "precio": "$32,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26894X1.jpg"
+  },
+  {
+    "nombre": "ANTON",
+    "codigo": "Codigo: 26910",
+    "precio": "$31,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26910X1.jpg"
+  },
+  {
+    "nombre": "NIZZA",
+    "codigo": "Codigo: 26914",
+    "precio": "$34,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "TRICA",
+    "codigo": "Codigo: 26924",
+    "precio": "$31,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "MONACO",
+    "codigo": "Codigo: 26982",
+    "precio": "$34,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26982X1.jpg"
+  },
+  {
+    "nombre": "SETH",
+    "codigo": "Codigo: 12966",
+    "precio": "$34,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/12966X1.jpg"
+  },
+  {
+    "nombre": "ANDRU",
+    "codigo": "Codigo: 26980",
+    "precio": "$32,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "RAVEL",
+    "codigo": "Codigo: 26896",
+    "precio": "$34,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26896X1.jpg"
+  },
+  {
+    "nombre": "IKA",
+    "codigo": "Codigo: 26864",
+    "precio": "$34,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "SIRKA",
+    "codigo": "Codigo: 26870",
+    "precio": "$34,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "TOFEE",
+    "codigo": "Codigo: 26816",
+    "precio": "$35,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26816X1.jpg"
+  },
+  {
+    "nombre": "HANS",
+    "codigo": "Codigo: 26878",
+    "precio": "$33,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26878X1.jpg"
+  },
+  {
+    "nombre": "JAIRA",
+    "codigo": "Codigo: 26880",
+    "precio": "$34,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26880X1.jpg"
+  },
+  {
+    "nombre": "WAY",
+    "codigo": "Codigo: 26884",
+    "precio": "$34,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26884X1.jpg"
+  },
+  {
+    "nombre": "SLOW",
+    "codigo": "Codigo: 26886",
+    "precio": "$34,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/26886X1.jpg"
+  },
+  {
+    "nombre": "LOREL",
+    "codigo": "Codigo: 26976",
+    "precio": "$34,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "URAL",
+    "codigo": "Codigo: 04668",
+    "precio": "$15,450.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/04668X1.jpg"
+  },
+  {
+    "nombre": "DANUBIO",
+    "codigo": "Codigo: 04670",
+    "precio": "$15,450.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/04670X1.jpg"
+  },
+  {
+    "nombre": "ARGENTINA",
+    "codigo": "Codigo: 09070",
+    "precio": "$13,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/09070X1.jpg"
+  },
+  {
+    "nombre": "HAWAI",
+    "codigo": "Codigo: 09190",
+    "precio": "$13,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/09190X1.jpg"
+  },
+  {
+    "nombre": "FORTALEZA",
+    "codigo": "Codigo: 09234",
+    "precio": "$12,154.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/09234X1.jpg"
+  },
+  {
+    "nombre": "ARCHER",
+    "codigo": "Codigo: 20902",
+    "precio": "$22,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/20902X1.jpg"
+  },
+  {
+    "nombre": "ZAROUS",
+    "codigo": "Codigo: 21276",
+    "precio": "$15,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/21276X1.jpg"
+  },
+  {
+    "nombre": "FABIO",
+    "codigo": "Codigo: 21562",
+    "precio": "$14,300.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/21562X1.jpg"
+  },
+  {
+    "nombre": "BERGEN",
+    "codigo": "Codigo: 23260",
+    "precio": "$17,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23260X1.jpg"
+  },
+  {
+    "nombre": "BHOPAL",
+    "codigo": "Codigo: 23318",
+    "precio": "$14,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23318X1.jpg"
+  },
+  {
+    "nombre": "BREMERHAVEN",
+    "codigo": "Codigo: 23322",
+    "precio": "$17,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23322X1.jpg"
+  },
+  {
+    "nombre": "BAHÍA BLANCA",
+    "codigo": "Codigo: 23324",
+    "precio": "$17,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23324X1.jpg"
+  },
+  {
+    "nombre": "AGUASCALIENTES",
+    "codigo": "Codigo: 23326",
+    "precio": "$17,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23326X1.jpg"
+  },
+  {
+    "nombre": "CATANIA",
+    "codigo": "Codigo: 23328",
+    "precio": "$16,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23328X1.jpg"
+  },
+  {
+    "nombre": "GUAYAQUIL",
+    "codigo": "Codigo: 23400",
+    "precio": "$16,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23400X1.jpg"
+  },
+  {
+    "nombre": "MANILA",
+    "codigo": "Codigo: 23232",
+    "precio": "$19,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23232X1.jpg"
+  },
+  {
+    "nombre": "MARACAIBO",
+    "codigo": "Codigo: 23234",
+    "precio": "$19,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23234X1.jpg"
+  },
+  {
+    "nombre": "MARRAKECH",
+    "codigo": "Codigo: 23236",
+    "precio": "$19,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23236X1.jpg"
+  },
+  {
+    "nombre": "MARSELLA",
+    "codigo": "Codigo: 23238",
+    "precio": "$19,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23238X1.jpg"
+  },
+  {
+    "nombre": "MESERÚ",
+    "codigo": "Codigo: 23240",
+    "precio": "$19,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23240X1.jpg"
+  },
+  {
+    "nombre": "MBABANE",
+    "codigo": "Codigo: 23242",
+    "precio": "$19,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23242X1.jpg"
+  },
+  {
+    "nombre": "MEDELLIN",
+    "codigo": "Codigo: 23244",
+    "precio": "$19,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23244X1.jpg"
+  },
+  {
+    "nombre": "MELBOURNE",
+    "codigo": "Codigo: 23246",
+    "precio": "$19,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23246X1.jpg"
+  },
+  {
+    "nombre": "MEMPHIS",
+    "codigo": "Codigo: 23248",
+    "precio": "$19,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23248X1.jpg"
+  },
+  {
+    "nombre": "MENDOZA",
+    "codigo": "Codigo: 23250",
+    "precio": "$19,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23250X1.jpg"
+  },
+  {
+    "nombre": "MIAMI",
+    "codigo": "Codigo: 23262",
+    "precio": "$19,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23262X1.jpg"
+  },
+  {
+    "nombre": "MILÁN",
+    "codigo": "Codigo: 23264",
+    "precio": "$19,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23264X1.jpg"
+  },
+  {
+    "nombre": "MINNEAPOLIS",
+    "codigo": "Codigo: 23266",
+    "precio": "$19,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23266X1.jpg"
+  },
+  {
+    "nombre": "MINSK",
+    "codigo": "Codigo: 23268",
+    "precio": "$19,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23268X1.jpg"
+  },
+  {
+    "nombre": "MOGADISCIO",
+    "codigo": "Codigo: 23270",
+    "precio": "$19,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23270X1.jpg"
+  },
+  {
+    "nombre": "NICOSIA",
+    "codigo": "Codigo: 23298",
+    "precio": "$17,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23298X1.jpg"
+  },
+  {
+    "nombre": "NAUKCHOT",
+    "codigo": "Codigo: 23300",
+    "precio": "$16,800.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23300X1.jpg"
+  },
+  {
+    "nombre": "OMAHA",
+    "codigo": "Codigo: 23302",
+    "precio": "$17,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23302X1.jpg"
+  },
+  {
+    "nombre": "OSLO",
+    "codigo": "Codigo: 23304",
+    "precio": "$17,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23304X1.jpg"
+  },
+  {
+    "nombre": "OTTAWA",
+    "codigo": "Codigo: 23306",
+    "precio": "$17,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23306X1.jpg"
+  },
+  {
+    "nombre": "PALERMO",
+    "codigo": "Codigo: 23308",
+    "precio": "$16,800.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23308X1.jpg"
+  },
+  {
+    "nombre": "PANAMÁ",
+    "codigo": "Codigo: 23310",
+    "precio": "$16,800.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23310X1.jpg"
+  },
+  {
+    "nombre": "PARÍS",
+    "codigo": "Codigo: 23312",
+    "precio": "$17,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23312X1.jpg"
+  },
+  {
+    "nombre": "PEKÍN",
+    "codigo": "Codigo: 23314",
+    "precio": "$16,800.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23314X1.jpg"
+  },
+  {
+    "nombre": "PERTH",
+    "codigo": "Codigo: 23316",
+    "precio": "$16,800.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23316X1.jpg"
+  },
+  {
+    "nombre": "ALMERÍA",
+    "codigo": "Codigo: 23320",
+    "precio": "$17,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23320X1.jpg"
+  },
+  {
+    "nombre": "CONCEPCIÓN",
+    "codigo": "Codigo: 23330",
+    "precio": "$16,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23330X1.jpg"
+  },
+  {
+    "nombre": "TEMUCO",
+    "codigo": "Codigo: 23332",
+    "precio": "$15,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23332X1.jpg"
+  },
+  {
+    "nombre": "TIANJIN",
+    "codigo": "Codigo: 23334",
+    "precio": "$17,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23334X1.jpg"
+  },
+  {
+    "nombre": "TIMBUKTU",
+    "codigo": "Codigo: 23336",
+    "precio": "$17,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23336X1.jpg"
+  },
+  {
+    "nombre": "TIFARITI",
+    "codigo": "Codigo: 23338",
+    "precio": "$17,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23338X1.jpg"
+  },
+  {
+    "nombre": "TOKIO",
+    "codigo": "Codigo: 23340",
+    "precio": "$17,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23340X1.jpg"
+  },
+  {
+    "nombre": "TORONTO",
+    "codigo": "Codigo: 23342",
+    "precio": "$17,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23342X1.jpg"
+  },
+  {
+    "nombre": "TRONDHEIM",
+    "codigo": "Codigo: 23344",
+    "precio": "$17,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23344X1.jpg"
+  },
+  {
+    "nombre": "TÚNEZ",
+    "codigo": "Codigo: 23346",
+    "precio": "$17,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23346X1.jpg"
+  },
+  {
+    "nombre": "UAGADUGÚ",
+    "codigo": "Codigo: 23348",
+    "precio": "$17,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23348X1.jpg"
+  },
+  {
+    "nombre": "ULAN B ATOR",
+    "codigo": "Codigo: 23350",
+    "precio": "$17,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23350X1.jpg"
+  },
+  {
+    "nombre": "VADUZ",
+    "codigo": "Codigo: 23352",
+    "precio": "$14,300.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23352X1.jpg"
+  },
+  {
+    "nombre": "VALLETTA",
+    "codigo": "Codigo: 23354",
+    "precio": "$17,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23354X1.jpg"
+  },
+  {
+    "nombre": "BRUSELAS",
+    "codigo": "Codigo: E23068",
+    "precio": "$1,040,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/E23068X1.jpg"
+  },
+  {
+    "nombre": "PACK DAKAR",
+    "codigo": "Codigo: M23184",
+    "precio": "$900,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/M23184X1.jpg"
+  },
+  {
+    "nombre": "PACK CAMBERRA",
+    "codigo": "Codigo: P23164",
+    "precio": "$769,600.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/P23164X1.jpg"
+  },
+  {
+    "nombre": "PACK LA HABANA",
+    "codigo": "Codigo: P23212",
+    "precio": "$840,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/P23212X1.jpg"
+  },
+  {
+    "nombre": "SAN FRANCISCO",
+    "codigo": "Codigo: 23084",
+    "precio": "$21,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23084X1.jpg"
+  },
+  {
+    "nombre": "SAN PETERSBURGO",
+    "codigo": "Codigo: 23086",
+    "precio": "$21,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23086X1.jpg"
+  },
+  {
+    "nombre": "SANTO DOMINGO",
+    "codigo": "Codigo: 23088",
+    "precio": "$21,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23088X1.jpg"
+  },
+  {
+    "nombre": "SAO PAULO",
+    "codigo": "Codigo: 23090",
+    "precio": "$21,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23090X1.jpg"
+  },
+  {
+    "nombre": "SARAJEVO",
+    "codigo": "Codigo: 23092",
+    "precio": "$21,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23092X1.jpg"
+  },
+  {
+    "nombre": "SEATTLE",
+    "codigo": "Codigo: 23094",
+    "precio": "$21,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23094X1.jpg"
+  },
+  {
+    "nombre": "SEÚL",
+    "codigo": "Codigo: 23096",
+    "precio": "$21,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23096X1.jpg"
+  },
+  {
+    "nombre": "SHANGHÁI",
+    "codigo": "Codigo: 23098",
+    "precio": "$21,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23098X1.jpg"
+  },
+  {
+    "nombre": "SINGAPUR",
+    "codigo": "Codigo: 23100",
+    "precio": "$21,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23100X1.jpg"
+  },
+  {
+    "nombre": "SKOPJE",
+    "codigo": "Codigo: 23102",
+    "precio": "$21,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23102X1.jpg"
+  },
+  {
+    "nombre": "SUVA",
+    "codigo": "Codigo: 23104",
+    "precio": "$21,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23104X1.jpg"
+  },
+  {
+    "nombre": "SYDNEY",
+    "codigo": "Codigo: 23106",
+    "precio": "$21,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23106X1.jpg"
+  },
+  {
+    "nombre": "TAIPÉI",
+    "codigo": "Codigo: 23108",
+    "precio": "$21,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23108X1.jpg"
+  },
+  {
+    "nombre": "TALLIN",
+    "codigo": "Codigo: 23110",
+    "precio": "$21,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23110X1.jpg"
+  },
+  {
+    "nombre": "TBILISI",
+    "codigo": "Codigo: 23112",
+    "precio": "$21,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23112X1.jpg"
+  },
+  {
+    "nombre": "TEGUCIGALPA",
+    "codigo": "Codigo: 23114",
+    "precio": "$21,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23114X1.jpg"
+  },
+  {
+    "nombre": "TEL AVIV",
+    "codigo": "Codigo: 23272",
+    "precio": "$21,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23272X1.jpg"
+  },
+  {
+    "nombre": "WILDER",
+    "codigo": "Codigo: 21620",
+    "precio": "$26,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/21620X1.jpg"
+  },
+  {
+    "nombre": "ESTOCOLMO",
+    "codigo": "Codigo: 23032",
+    "precio": "$27,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23032X1.jpg"
+  },
+  {
+    "nombre": "PARIS",
+    "codigo": "Codigo: 23034",
+    "precio": "$27,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23034X1.jpg"
+  },
+  {
+    "nombre": "FILADELFIA",
+    "codigo": "Codigo: 23036",
+    "precio": "$27,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23036X1.jpg"
+  },
+  {
+    "nombre": "BAMENDA",
+    "codigo": "Codigo: 23252",
+    "precio": "$25,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23252X1.jpg"
+  },
+  {
+    "nombre": "BANJUL",
+    "codigo": "Codigo: 23254",
+    "precio": "$25,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23254X1.jpg"
+  },
+  {
+    "nombre": "BARRANQUILLA",
+    "codigo": "Codigo: 23256",
+    "precio": "$25,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23256X1.jpg"
+  },
+  {
+    "nombre": "BASILEA",
+    "codigo": "Codigo: 23258",
+    "precio": "$25,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23258X1.jpg"
+  },
+  {
+    "nombre": "BUENOS AIRES",
+    "codigo": "Codigo: 04478",
+    "precio": "$21,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/04478X1.jpg"
+  },
+  {
+    "nombre": "KANSAS",
+    "codigo": "Codigo: 09648",
+    "precio": "$22,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/09648X1.jpg"
+  },
+  {
+    "nombre": "MATÍAS",
+    "codigo": "Codigo: 16710",
+    "precio": "$22,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/16710X1.jpg"
+  },
+  {
+    "nombre": "FRANK",
+    "codigo": "Codigo: 16712",
+    "precio": "$26,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/16712X1.jpg"
+  },
+  {
+    "nombre": "LIVERPOOL",
+    "codigo": "Codigo: 19772",
+    "precio": "$22,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/19772X1.jpg"
+  },
+  {
+    "nombre": "ENZO",
+    "codigo": "Codigo: 21298",
+    "precio": "$26,780.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "DYLAN",
+    "codigo": "Codigo: 21458",
+    "precio": "$26,780.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/21458X1.jpg"
+  },
+  {
+    "nombre": "AARHUS",
+    "codigo": "Codigo: 23038",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "ADU DABI",
+    "codigo": "Codigo: 23040",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23040X1.jpg"
+  },
+  {
+    "nombre": "ACCRA",
+    "codigo": "Codigo: 23042",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "ANKARA",
+    "codigo": "Codigo: 23046",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "ANTANANARIVO",
+    "codigo": "Codigo: 23048",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "ENZO",
+    "codigo": "Codigo: 23116",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23116X1.jpg"
+  },
+  {
+    "nombre": "LEO",
+    "codigo": "Codigo: 23118",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23118X1.jpg"
+  },
+  {
+    "nombre": "ÁLVARO",
+    "codigo": "Codigo: 23120",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23120X1.jpg"
+  },
+  {
+    "nombre": "IZAN",
+    "codigo": "Codigo: 23122",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23122X1.jpg"
+  },
+  {
+    "nombre": "HENRY",
+    "codigo": "Codigo: 23124",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "HUGO",
+    "codigo": "Codigo: 23126",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23126X1.jpg"
+  },
+  {
+    "nombre": "AXEL",
+    "codigo": "Codigo: 23128",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23128X1.jpg"
+  },
+  {
+    "nombre": "LUCAS",
+    "codigo": "Codigo: 23130",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23130X1.jpg"
+  },
+  {
+    "nombre": "MONTEVIDEO",
+    "codigo": "Codigo: 23132",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23132X1.jpg"
+  },
+  {
+    "nombre": "MONTREAL",
+    "codigo": "Codigo: 23134",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23134X1.jpg"
+  },
+  {
+    "nombre": "MOSCÚ",
+    "codigo": "Codigo: 23136",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23136X1.jpg"
+  },
+  {
+    "nombre": "MUMBAI",
+    "codigo": "Codigo: 23138",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23138X1.jpg"
+  },
+  {
+    "nombre": "MUNICH",
+    "codigo": "Codigo: 23140",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23140X1.jpg"
+  },
+  {
+    "nombre": "NAIROBY",
+    "codigo": "Codigo: 23142",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23142X1.jpg"
+  },
+  {
+    "nombre": "NASHVILLE",
+    "codigo": "Codigo: 23144",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23144X1.jpg"
+  },
+  {
+    "nombre": "NUEVA YORK",
+    "codigo": "Codigo: 23146",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23146X1.jpg"
+  },
+  {
+    "nombre": "NEWMARK",
+    "codigo": "Codigo: 23148",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23148X1.jpg"
+  },
+  {
+    "nombre": "NEWCASTLE",
+    "codigo": "Codigo: 23150",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23150X1.jpg"
+  },
+  {
+    "nombre": "BLANTYRE",
+    "codigo": "Codigo: 23152",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23152X1.jpg"
+  },
+  {
+    "nombre": "PRAGA",
+    "codigo": "Codigo: 23154",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "QUITO",
+    "codigo": "Codigo: 23156",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23156X1.jpg"
+  },
+  {
+    "nombre": "RABAT",
+    "codigo": "Codigo: 23158",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23158X1.jpg"
+  },
+  {
+    "nombre": "RÍO DE JANEIRO",
+    "codigo": "Codigo: 23160",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23160X1.jpg"
+  },
+  {
+    "nombre": "ROMA",
+    "codigo": "Codigo: 23162",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23162X1.jpg"
+  },
+  {
+    "nombre": "ÁMSTERDAM",
+    "codigo": "Codigo: 23044",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23044X1.jpg"
+  },
+  {
+    "nombre": "JAKE",
+    "codigo": "Codigo: 03868",
+    "precio": "$53,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/03868X1.jpg"
+  },
+  {
+    "nombre": "BRIGHTON",
+    "codigo": "Codigo: 13700",
+    "precio": "$62,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13700X1.jpg"
+  },
+  {
+    "nombre": "BRENDAN",
+    "codigo": "Codigo: 13702",
+    "precio": "$62,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13702X1.jpg"
+  },
+  {
+    "nombre": "FROST",
+    "codigo": "Codigo: 13704",
+    "precio": "$59,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13704X1.jpg"
+  },
+  {
+    "nombre": "BAUKU",
+    "codigo": "Codigo: 01716",
+    "precio": "$16,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/01716X1.jpg"
+  },
+  {
+    "nombre": "CERATI",
+    "codigo": "Codigo: 15530",
+    "precio": "$17,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/15530X1.jpg"
+  },
+  {
+    "nombre": "BOWIE",
+    "codigo": "Codigo: 15532",
+    "precio": "$17,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/15532X1.jpg"
+  },
+  {
+    "nombre": "AMALFI",
+    "codigo": "Codigo: 15534",
+    "precio": "$16,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/15534X1.jpg"
+  },
+  {
+    "nombre": "LIVS",
+    "codigo": "Codigo: 15536",
+    "precio": "$16,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/15536X1.jpg"
+  },
+  {
+    "nombre": "PINTO",
+    "codigo": "Codigo: 15538",
+    "precio": "$16,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/15538X1.jpg"
+  },
+  {
+    "nombre": "LUP",
+    "codigo": "Codigo: 15540",
+    "precio": "$16,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/15540X1.jpg"
+  },
+  {
+    "nombre": "TRIBU",
+    "codigo": "Codigo: 15542",
+    "precio": "$16,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/15542X1.jpg"
+  },
+  {
+    "nombre": "LAUREL",
+    "codigo": "Codigo: 15544",
+    "precio": "$16,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/15544X1.jpg"
+  },
+  {
+    "nombre": "FIZZ",
+    "codigo": "Codigo: 15546",
+    "precio": "$16,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/15546X1.jpg"
+  },
+  {
+    "nombre": "GOLD",
+    "codigo": "Codigo: 15548",
+    "precio": "$16,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/15548X1.jpg"
+  },
+  {
+    "nombre": "MILRA",
+    "codigo": "Codigo: 15550",
+    "precio": "$16,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/15550X1.jpg"
+  },
+  {
+    "nombre": "NUBA",
+    "codigo": "Codigo: 15552",
+    "precio": "$16,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/15552X1.jpg"
+  },
+  {
+    "nombre": "FLORAL",
+    "codigo": "Codigo: 15554",
+    "precio": "$16,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/15554X1.jpg"
+  },
+  {
+    "nombre": "LITAR",
+    "codigo": "Codigo: 15556",
+    "precio": "$16,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/15556X1.jpg"
+  },
+  {
+    "nombre": "INDIAN. SHORT DE BAÑO ESTAMPADO100% POLIESTER",
+    "codigo": "Codigo: 15558",
+    "precio": "$16,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/15558X1.jpg"
+  },
+  {
+    "nombre": "ARABEL",
+    "codigo": "Codigo: 15560",
+    "precio": "$16,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/15560X1.jpg"
+  },
+  {
+    "nombre": "MORRIS",
+    "codigo": "Codigo: 11122",
+    "precio": "$30,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11122X1.jpg"
+  },
+  {
+    "nombre": "TOKIO",
+    "codigo": "Codigo: 11136",
+    "precio": "$28,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11136X1.jpg"
+  },
+  {
+    "nombre": "MAUVE",
+    "codigo": "Codigo: 11964",
+    "precio": "$30,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11964X1.jpg"
+  },
+  {
+    "nombre": "DARWIN",
+    "codigo": "Codigo: 13354",
+    "precio": "$31,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13354X1.jpg"
+  },
+  {
+    "nombre": "CETIN",
+    "codigo": "Codigo: 13610",
+    "precio": "$31,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "LAWSON",
+    "codigo": "Codigo: 13614",
+    "precio": "$28,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "BARRY",
+    "codigo": "Codigo: 13616",
+    "precio": "$29,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "FELDMAN",
+    "codigo": "Codigo: 13624",
+    "precio": "$30,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13624X1.jpg"
+  },
+  {
+    "nombre": "FISHER",
+    "codigo": "Codigo: 13626",
+    "precio": "$32,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "SMART",
+    "codigo": "Codigo: 13628",
+    "precio": "$31,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13628X1.jpg"
+  },
+  {
+    "nombre": "POWEL",
+    "codigo": "Codigo: 13630",
+    "precio": "$30,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13630X1.jpg"
+  },
+  {
+    "nombre": "ISLER",
+    "codigo": "Codigo: 13632",
+    "precio": "$32,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13632X1.jpg"
+  },
+  {
+    "nombre": "DUNIA",
+    "codigo": "Codigo: 13784",
+    "precio": "$30,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "NOUR",
+    "codigo": "Codigo: 13786",
+    "precio": "$30,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13786X1.jpg"
+  },
+  {
+    "nombre": "VINICIUS",
+    "codigo": "Codigo: 13814",
+    "precio": "$32,000.00 - $32,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13814X1.jpg"
+  },
+  {
+    "nombre": "MONTE",
+    "codigo": "Codigo: 13222",
+    "precio": "$34,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13222X1.jpg"
+  },
+  {
+    "nombre": "DUNE",
+    "codigo": "Codigo: 13426",
+    "precio": "$35,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13426X1.jpg"
+  },
+  {
+    "nombre": "GORMAN",
+    "codigo": "Codigo: 13612",
+    "precio": "$33,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13612X1.jpg"
+  },
+  {
+    "nombre": "DOMUS",
+    "codigo": "Codigo: 13790",
+    "precio": "$35,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13790X1.jpg"
+  },
+  {
+    "nombre": "DONATO",
+    "codigo": "Codigo: 13792",
+    "precio": "$31,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13792X1.jpg"
+  },
+  {
+    "nombre": "TEKEN",
+    "codigo": "Codigo: 10218",
+    "precio": "$27,000.00 - $27,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/10218X1.jpg"
+  },
+  {
+    "nombre": "RODA",
+    "codigo": "Codigo: 11650",
+    "precio": "$28,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11650X1.jpg"
+  },
+  {
+    "nombre": "JEAR",
+    "codigo": "Codigo: 11658",
+    "precio": "$28,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11658X1.jpg"
+  },
+  {
+    "nombre": "CHARLIE",
+    "codigo": "Codigo: 11664",
+    "precio": "$28,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11664X1.jpg"
+  },
+  {
+    "nombre": "YANG",
+    "codigo": "Codigo: 13262",
+    "precio": "$28,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13262X1.jpg"
+  },
+  {
+    "nombre": "GAURAV",
+    "codigo": "Codigo: 13368",
+    "precio": "$28,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13368X1.jpg"
+  },
+  {
+    "nombre": "ZEKA",
+    "codigo": "Codigo: 13388",
+    "precio": "$28,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13388X1.jpg"
+  },
+  {
+    "nombre": "ODAIR",
+    "codigo": "Codigo: 13402",
+    "precio": "$28,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13402X1.jpg"
+  },
+  {
+    "nombre": "RAONI",
+    "codigo": "Codigo: 13404",
+    "precio": "$28,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13404X1.jpg"
+  },
+  {
+    "nombre": "SHANKS",
+    "codigo": "Codigo: 13406",
+    "precio": "$31,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13406X1.jpg"
+  },
+  {
+    "nombre": "SALVADOR",
+    "codigo": "Codigo: 13412",
+    "precio": "$28,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13412X1.jpg"
+  },
+  {
+    "nombre": "RENZO",
+    "codigo": "Codigo: 13816",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "INNIK",
+    "codigo": "Codigo: 13824",
+    "precio": "$28,000.00 - $28,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13824X1.jpg"
+  },
+  {
+    "nombre": "HANTA",
+    "codigo": "Codigo: 13828",
+    "precio": "$34,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13828X1.jpg"
+  },
+  {
+    "nombre": "MIKO",
+    "codigo": "Codigo: 13830",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13830X1.jpg"
+  },
+  {
+    "nombre": "ALPHONSE",
+    "codigo": "Codigo: 13832",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13832X1.jpg"
+  },
+  {
+    "nombre": "PERALTA",
+    "codigo": "Codigo: 13840",
+    "precio": "$29,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13840X1.jpg"
+  },
+  {
+    "nombre": "WILD",
+    "codigo": "Codigo: 13518",
+    "precio": "$17,510.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/13518X1.jpg"
+  },
+  {
+    "nombre": "VANCOUVER",
+    "codigo": "Codigo: 23356",
+    "precio": "$16,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23356X1.jpg"
+  },
+  {
+    "nombre": "VILNA",
+    "codigo": "Codigo: 23360",
+    "precio": "$18,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23360X1.jpg"
+  },
+  {
+    "nombre": "WASHINGTON",
+    "codigo": "Codigo: 23362",
+    "precio": "$19,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "WELLINGTON",
+    "codigo": "Codigo: 23364",
+    "precio": "$18,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23364X1.jpg"
+  },
+  {
+    "nombre": "WINNIPEG",
+    "codigo": "Codigo: 23366",
+    "precio": "$18,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23366X1.jpg"
+  },
+  {
+    "nombre": "YAGON",
+    "codigo": "Codigo: 23368",
+    "precio": "$18,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23368X1.jpg"
+  },
+  {
+    "nombre": "YEREVAN",
+    "codigo": "Codigo: 23370",
+    "precio": "$18,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23370X1.jpg"
+  },
+  {
+    "nombre": "ZURICH",
+    "codigo": "Codigo: 23374",
+    "precio": "$16,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23374X1.jpg"
+  },
+  {
+    "nombre": "ABIYAN",
+    "codigo": "Codigo: 23376",
+    "precio": "$17,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "VARSOVIA",
+    "codigo": "Codigo: 23388",
+    "precio": "$18,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23388X1.jpg"
+  },
+  {
+    "nombre": "STANLEY",
+    "codigo": "Codigo: 13526",
+    "precio": "$28,840.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "MAXIMO",
+    "codigo": "Codigo: 15058",
+    "precio": "$24,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/15058X1.jpg"
+  },
+  {
+    "nombre": "LOGAN SPORT",
+    "codigo": "Codigo: 15090",
+    "precio": "$21,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/15090X1.jpg"
+  },
+  {
+    "nombre": "PIENZA",
+    "codigo": "Codigo: 23390",
+    "precio": "$26,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23390X1.jpg"
+  },
+  {
+    "nombre": "POSITANO",
+    "codigo": "Codigo: 23392",
+    "precio": "$27,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23392X1.jpg"
+  },
+  {
+    "nombre": "SAN GIMIGNANO",
+    "codigo": "Codigo: 23394",
+    "precio": "$38,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23394X1.jpg"
+  },
+  {
+    "nombre": "ALEJANDRIA",
+    "codigo": "Codigo: 23380",
+    "precio": "$26,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23380X1.jpg"
+  },
+  {
+    "nombre": "ALGER",
+    "codigo": "Codigo: 23382",
+    "precio": "$22,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23382X1.jpg"
+  },
+  {
+    "nombre": "AMMÁN",
+    "codigo": "Codigo: 23384",
+    "precio": "$28,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23384X1.jpg"
+  },
+  {
+    "nombre": "ANCHORAGE",
+    "codigo": "Codigo: 23386",
+    "precio": "$28,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/23386X1.jpg"
+  },
+  {
+    "nombre": "ADILETTE TAVERNITI",
+    "codigo": "Codigo: C29782",
+    "precio": "$111,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/C29782X1.jpg"
+  },
+  {
+    "nombre": "ADILETTE TVNT",
+    "codigo": "Codigo: C29784",
+    "precio": "$111,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/C29784X1.jpg"
+  },
+  {
+    "nombre": "ADILETTE HEX",
+    "codigo": "Codigo: D29780",
+    "precio": "$111,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/D29780X1.jpg"
+  },
+  {
+    "nombre": "ADILETTE TAVERNITI",
+    "codigo": "Codigo: D29782",
+    "precio": "$111,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/D29782X1.jpg"
+  },
+  {
+    "nombre": "ADILETTE TVNT",
+    "codigo": "Codigo: D29784",
+    "precio": "$111,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/D29784X1.jpg"
+  },
+  {
+    "nombre": "ADILETTE HEX",
+    "codigo": "Codigo: P29780",
+    "precio": "$222,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/P29780X1.jpg"
+  },
+  {
+    "nombre": "ADILETTE TAVERNITI",
+    "codigo": "Codigo: P29782",
+    "precio": "$222,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/P29782X1.jpg"
+  },
+  {
+    "nombre": "ADILETTE TVNT",
+    "codigo": "Codigo: P29784",
+    "precio": "$222,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/P29784X1.jpg"
+  },
+  {
+    "nombre": "JAGGER",
+    "codigo": "Codigo: C29750",
+    "precio": "$299,400.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/C29750X1.jpg"
+  },
+  {
+    "nombre": "ASIER",
+    "codigo": "Codigo: C29752",
+    "precio": "$279,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/C29752X1.jpg"
+  },
+  {
+    "nombre": "OWEN",
+    "codigo": "Codigo: C29754",
+    "precio": "$294,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/C29754X1.jpg"
+  },
+  {
+    "nombre": "KARSSON",
+    "codigo": "Codigo: C29756",
+    "precio": "$279,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/C29756X1.jpg"
+  },
+  {
+    "nombre": "TONY",
+    "codigo": "Codigo: C29758",
+    "precio": "$294,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/C29758X1.jpg"
+  },
+  {
+    "nombre": "CLAYTON TX",
+    "codigo": "Codigo: C29760",
+    "precio": "$225,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/C29760X1.jpg"
+  },
+  {
+    "nombre": "CLAYTON",
+    "codigo": "Codigo: C29762",
+    "precio": "$285,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/C29762X1.jpg"
+  },
+  {
+    "nombre": "COPPER",
+    "codigo": "Codigo: C29764",
+    "precio": "$279,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/C29764X1.jpg"
+  },
+  {
+    "nombre": "COLINS",
+    "codigo": "Codigo: C29766",
+    "precio": "$225,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/C29766X1.jpg"
+  },
+  {
+    "nombre": "CHANCE",
+    "codigo": "Codigo: C29768",
+    "precio": "$225,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/C29768X1.jpg"
+  },
+  {
+    "nombre": "TRED",
+    "codigo": "Codigo: C29770",
+    "precio": "$269,700.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "LOOP",
+    "codigo": "Codigo: C29772",
+    "precio": "$269,700.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "ASHANTI",
+    "codigo": "Codigo: 11477",
+    "precio": "$34,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11477X1.jpg"
+  },
+  {
+    "nombre": "CRISTA",
+    "codigo": "Codigo: 11613",
+    "precio": "$35,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11613X1.jpg"
+  },
+  {
+    "nombre": "BONNET",
+    "codigo": "Codigo: 11379",
+    "precio": "$31,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11379X1.jpg"
+  },
+  {
+    "nombre": "ROMEO",
+    "codigo": "Codigo: 11383",
+    "precio": "$38,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11383X1.jpg"
+  },
+  {
+    "nombre": "NAINA",
+    "codigo": "Codigo: 11479",
+    "precio": "$37,080.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11479X1.jpg"
+  },
+  {
+    "nombre": "HOPE",
+    "codigo": "Codigo: 11561",
+    "precio": "$36,565.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11561X1.jpg"
+  },
+  {
+    "nombre": "FLAVOR",
+    "codigo": "Codigo: 11677",
+    "precio": "$40,944.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11677X1.jpg"
+  },
+  {
+    "nombre": "STILL",
+    "codigo": "Codigo: 11679",
+    "precio": "$37,500.00 - $37,595.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11679X1.jpg"
+  },
+  {
+    "nombre": "BECA",
+    "codigo": "Codigo: 11721",
+    "precio": "$41,200.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "AMOR",
+    "codigo": "Codigo: 11725",
+    "precio": "$38,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11725X1.jpg"
+  },
+  {
+    "nombre": "ATIRA",
+    "codigo": "Codigo: 11727",
+    "precio": "$39,655.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11727X1.jpg"
+  },
+  {
+    "nombre": "TRISHA",
+    "codigo": "Codigo: 11749",
+    "precio": "$0.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11749X1.jpg"
+  },
+  {
+    "nombre": "DIDIER",
+    "codigo": "Codigo: 11759",
+    "precio": "$39,140.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "HUDSON",
+    "codigo": "Codigo: 11765",
+    "precio": "$40,994.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11765X1.jpg"
+  },
+  {
+    "nombre": "BARREL",
+    "codigo": "Codigo: 11771",
+    "precio": "$36,565.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11771X1.jpg"
+  },
+  {
+    "nombre": "TREVOR",
+    "codigo": "Codigo: 11805",
+    "precio": "$31,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11805X1.jpg"
+  },
+  {
+    "nombre": "STONY",
+    "codigo": "Codigo: 11823",
+    "precio": "$38,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11823X1.jpg"
+  },
+  {
+    "nombre": "CLUB",
+    "codigo": "Codigo: 11859",
+    "precio": "$0.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11859X1.jpg"
+  },
+  {
+    "nombre": "AZADEH",
+    "codigo": "Codigo: 11867",
+    "precio": "$38,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11867X1.jpg"
+  },
+  {
+    "nombre": "TANDIS",
+    "codigo": "Codigo: 11869",
+    "precio": "$38,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11869X1.jpg"
+  },
+  {
+    "nombre": "DRHU",
+    "codigo": "Codigo: 11851",
+    "precio": "$37,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11851X1.jpg"
+  },
+  {
+    "nombre": "LIPA",
+    "codigo": "Codigo: 10561",
+    "precio": "$34,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/10561X1.jpg"
+  },
+  {
+    "nombre": "NEW DIVE",
+    "codigo": "Codigo: 10569",
+    "precio": "$34,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/10569X1.jpg"
+  },
+  {
+    "nombre": "DASON",
+    "codigo": "Codigo: 11615",
+    "precio": "$34,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11615X1.jpg"
+  },
+  {
+    "nombre": "BRODY",
+    "codigo": "Codigo: 11681",
+    "precio": "$34,505.00 - $35,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11681X1.jpg"
+  },
+  {
+    "nombre": "JALEH",
+    "codigo": "Codigo: 11783",
+    "precio": "$37,595.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "LALEH",
+    "codigo": "Codigo: 11835",
+    "precio": "$32,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11835X1.jpg"
+  },
+  {
+    "nombre": "GEMINI",
+    "codigo": "Codigo: 11883",
+    "precio": "$34,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11883X1.jpg"
+  },
+  {
+    "nombre": "CLICHY",
+    "codigo": "Codigo: 10419",
+    "precio": "$34,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/10419X1.jpg"
+  },
+  {
+    "nombre": "SUPREMO",
+    "codigo": "Codigo: 11377",
+    "precio": "$35,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11377X1.jpg"
+  },
+  {
+    "nombre": "SINTONIA ENERGY",
+    "codigo": "Codigo: 11427",
+    "precio": "$34,000.00 - $35,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11427X1.jpg"
+  },
+  {
+    "nombre": "BIBIER",
+    "codigo": "Codigo: 11445",
+    "precio": "$34,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11445X1.jpg"
+  },
+  {
+    "nombre": "KENIA",
+    "codigo": "Codigo: 11343",
+    "precio": "$38,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11343X1.jpg"
+  },
+  {
+    "nombre": "JAYA",
+    "codigo": "Codigo: 11757",
+    "precio": "$37,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11757X1.jpg"
+  },
+  {
+    "nombre": "BOUQUET",
+    "codigo": "Codigo: 11625",
+    "precio": "$37,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11625X1.jpg"
+  },
+  {
+    "nombre": "LORE",
+    "codigo": "Codigo: 11657",
+    "precio": "$39,655.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11657X1.jpg"
+  },
+  {
+    "nombre": "ROSALÍA",
+    "codigo": "Codigo: 11673",
+    "precio": "$38,625.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11673X1.jpg"
+  },
+  {
+    "nombre": "OXATIS",
+    "codigo": "Codigo: 11711",
+    "precio": "$40,170.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11711X1.jpg"
+  },
+  {
+    "nombre": "ETSYLINEN",
+    "codigo": "Codigo: 11777",
+    "precio": "$40,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11777X1.jpg"
+  },
+  {
+    "nombre": "HOUDINI",
+    "codigo": "Codigo: 11797",
+    "precio": "$40,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11797X1.jpg"
+  },
+  {
+    "nombre": "GLUP",
+    "codigo": "Codigo: 10461",
+    "precio": "$36,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/10461X1.jpg"
+  },
+  {
+    "nombre": "GEN",
+    "codigo": "Codigo: 11553",
+    "precio": "$36,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11553X1.jpg"
+  },
+  {
+    "nombre": "PANTRO",
+    "codigo": "Codigo: 11599",
+    "precio": "$36,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11599X1.jpg"
+  },
+  {
+    "nombre": "CHARUL",
+    "codigo": "Codigo: 11803",
+    "precio": "$38,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11803X1.jpg"
+  },
+  {
+    "nombre": "KIKA",
+    "codigo": "Codigo: 11687",
+    "precio": "$37,595.00 - $38,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11687X1.jpg"
+  },
+  {
+    "nombre": "JIGGLY",
+    "codigo": "Codigo: 11737",
+    "precio": "$35,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11737X1.jpg"
+  },
+  {
+    "nombre": "FLORIDA",
+    "codigo": "Codigo: 11761",
+    "precio": "$34,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11761X1.jpg"
+  },
+  {
+    "nombre": "CHESTER",
+    "codigo": "Codigo: 11769",
+    "precio": "$30,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11769X1.jpg"
+  },
+  {
+    "nombre": "MIMESI",
+    "codigo": "Codigo: 11885",
+    "precio": "$34,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/blanco.png"
+  },
+  {
+    "nombre": "REAL",
+    "codigo": "Codigo: 10431",
+    "precio": "$33,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/10431X1.jpg"
+  },
+  {
+    "nombre": "CONSTANCE ENERGY",
+    "codigo": "Codigo: 11319",
+    "precio": "$32,000.00 - $32,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11319X1.jpg"
+  },
+  {
+    "nombre": "NOSTALGIA I",
+    "codigo": "Codigo: 11543",
+    "precio": "$33,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11543X1.jpg"
+  },
+  {
+    "nombre": "JONES",
+    "codigo": "Codigo: 11675",
+    "precio": "$35,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11675X1.jpg"
+  },
+  {
+    "nombre": "CARA",
+    "codigo": "Codigo: 11359",
+    "precio": "$33,000.00 - $33,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11359X1.jpg"
+  },
+  {
+    "nombre": "RANIA",
+    "codigo": "Codigo: 11513",
+    "precio": "$34,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11513X1.jpg"
+  },
+  {
+    "nombre": "COSTAS",
+    "codigo": "Codigo: 11755",
+    "precio": "$33,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11755X1.jpg"
+  },
+  {
+    "nombre": "MARU",
+    "codigo": "Codigo: 11787",
+    "precio": "$39,500.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11787X1.jpg"
+  },
+  {
+    "nombre": "SAURA",
+    "codigo": "Codigo: 11807",
+    "precio": "$28,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11807X1.jpg"
+  },
+  {
+    "nombre": "REA",
+    "codigo": "Codigo: 11853",
+    "precio": "$35,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11853X1.jpg"
+  },
+  {
+    "nombre": "MANIA",
+    "codigo": "Codigo: 11865",
+    "precio": "$35,000.00",
+    "imagen": "https://www.tavernitionline.com.ar/temp/catalogos/CW2026VERANONG/L/11865X1.jpg"
+  }
+]
