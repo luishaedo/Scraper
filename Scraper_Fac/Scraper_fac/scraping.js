@@ -1,5 +1,6 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
+const path = require("path");
 
 async function getIframeById(page, iframeId, timeout = 20000) {
   // Espera que el iframe esté visible y devuelve el frame
@@ -141,8 +142,54 @@ const detalles = await frame.evaluate(() => {
       console.log("✅ Detalle extraído:");
       console.dir(detalles, { depth: null });
 
-      // Guarda resultados en un archivo por cada iteración (opcional)
-      fs.writeFileSync("facturas.json", JSON.stringify(resultados, null, 2));
+      // === GUARDADO ACUMULATIVO EN facturas.json ===
+let jsonPath = path.join(__dirname, "facturas.json");
+let facturas = [];
+if (fs.existsSync(jsonPath)) {
+  // Lee el archivo existente (o array vacío si está corrupto)
+  try {
+    facturas = JSON.parse(fs.readFileSync(jsonPath, "utf8")) || [];
+  } catch (e) {
+    facturas = [];
+  }
+}
+
+// Opción: Chequear si ya existe una factura con el mismo remito en el array (no duplicar)
+let yaExiste = facturas.some(f => f.remito === detalles.remito && f.factura === detalles.factura);
+
+if (!yaExiste) {
+  facturas.push(detalles);
+  fs.writeFileSync(jsonPath, JSON.stringify(facturas, null, 2));
+  console.log("✅ Factura agregada al facturas.json");
+} else {
+  console.log(`⚠️  El remito ${detalles.remito} (factura ${detalles.factura}) ya existe en facturas.json. No se agregó de nuevo.`);
+}
+
+// === GUARDADO DEL TXT POR REMITO, ALERTA SI YA EXISTE ===
+if (detalles.remito && detalles.articulos && detalles.articulos.length) {
+  let txt = '';
+  detalles.articulos.forEach(art => {
+    if (art.curva && art.curva.length) {
+      art.curva.forEach(curvaItem => {
+        const codigo = (art.codigo || '').toLowerCase().replace(/\s/g, '');
+        const color = (art.color || '').toLowerCase().replace(/\s/g, '');
+        const talle = (curvaItem.talle || '').toLowerCase().replace(/\s/g, '');
+        const cantidad = curvaItem.cantidad || '0';
+        txt += `${codigo}${color}.${talle}\t${cantidad}\n`;
+      });
+    }
+  });
+
+  if (txt) {
+    const txtPath = path.join(__dirname, `${detalles.remito}.txt`);
+    if (fs.existsSync(txtPath)) {
+      console.log(`⚠️  Ya existe el archivo ${detalles.remito}.txt. ATENCIÓN: no se sobreescribió, podrías haber scrapeado dos veces el mismo remito.`);
+    } else {
+      fs.writeFileSync(txtPath, txt, "utf8");
+      console.log(`📝 Archivo TXT guardado: ${detalles.remito}.txt`);
+    }
+  }
+}
 
       // Intentar cerrar el popup desde el frame
       await frame.evaluate(() => {

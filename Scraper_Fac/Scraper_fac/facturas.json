@@ -1,5 +1,143 @@
 [
   {
+    "factura": "18251",
+    "remito": "136181",
+    "fecha": "04/08/2025",
+    "articulos": [
+      {
+        "codigo": "04478",
+        "color": "602",
+        "descripcion": "CHOMBA HOMBRE",
+        "precio_unitario": "$ 21,000.00",
+        "cantidad": "6",
+        "precio_total": "$ 126,000.00",
+        "curva": [
+          {
+            "talle": "4XL",
+            "cantidad": "6"
+          }
+        ]
+      },
+      {
+        "codigo": "04478",
+        "color": "653",
+        "descripcion": "CHOMBA HOMBRE",
+        "precio_unitario": "$ 21,000.00",
+        "cantidad": "3",
+        "precio_total": "$ 63,000.00",
+        "curva": [
+          {
+            "talle": "4XL",
+            "cantidad": "3"
+          }
+        ]
+      },
+      {
+        "codigo": "04670",
+        "color": "323",
+        "descripcion": "REMERA HOMBRE",
+        "precio_unitario": "$ 15,450.00",
+        "cantidad": "52",
+        "precio_total": "$ 803,400.00",
+        "curva": [
+          {
+            "talle": "XS",
+            "cantidad": "6"
+          },
+          {
+            "talle": "S",
+            "cantidad": "6"
+          },
+          {
+            "talle": "M",
+            "cantidad": "12"
+          },
+          {
+            "talle": "L",
+            "cantidad": "12"
+          },
+          {
+            "talle": "XL",
+            "cantidad": "8"
+          },
+          {
+            "talle": "XXL",
+            "cantidad": "8"
+          }
+        ]
+      },
+      {
+        "codigo": "08238",
+        "color": "600",
+        "descripcion": "BOXER HOMBRE",
+        "precio_unitario": "$ 8,000.00",
+        "cantidad": "70",
+        "precio_total": "$ 560,000.00",
+        "curva": [
+          {
+            "talle": "L",
+            "cantidad": "20"
+          },
+          {
+            "talle": "XL",
+            "cantidad": "20"
+          },
+          {
+            "talle": "M",
+            "cantidad": "10"
+          },
+          {
+            "talle": "XXL",
+            "cantidad": "20"
+          }
+        ]
+      },
+      {
+        "codigo": "08983",
+        "color": "682",
+        "descripcion": "REMERA MUJER",
+        "precio_unitario": "$ 17,000.00",
+        "cantidad": "26",
+        "precio_total": "$ 442,000.00",
+        "curva": [
+          {
+            "talle": "S",
+            "cantidad": "6"
+          },
+          {
+            "talle": "M",
+            "cantidad": "6"
+          },
+          {
+            "talle": "L",
+            "cantidad": "6"
+          },
+          {
+            "talle": "XL",
+            "cantidad": "4"
+          },
+          {
+            "talle": "XXL",
+            "cantidad": "4"
+          }
+        ]
+      },
+      {
+        "codigo": "6121019-21B",
+        "color": "",
+        "descripcion": "",
+        "precio_unitario": "$ -239,328.00",
+        "cantidad": "1",
+        "precio_total": "$ -239,328.00",
+        "curva": []
+      }
+    ],
+    "subtotal": "$ 1,755,072.00",
+    "iva": "$ 368,565.12",
+    "percepciones": "$ 0.00",
+    "total": "$ 2,123,637.12"
+  },
+  {
     "factura": "18128",
     "remito": "136053",
     "fecha": "01/08/2025",
@@ -178,5 +316,505 @@
     "iva": "$ 698,686.30",
     "percepciones": "$ 0.00",
     "total": "$ 4,025,763.90"
+  },
+  {
+    "factura": "18037",
+    "remito": "135961",
+    "fecha": "30/07/2025",
+    "articulos": [
+      {
+        "codigo": "09234",
+        "color": "665",
+        "descripcion": "REMERA HOMBRE",
+        "precio_unitario": "$ 12,154.00",
+        "cantidad": "7",
+        "precio_total": "$ 85,078.00",
+        "curva": [
+          {
+            "talle": "XXX",
+            "cantidad": "2"
+          },
+          {
+            "talle": "4XL",
+            "cantidad": "5"
+          }
+        ]
+      },
+      {
+        "codigo": "16710",
+        "color": "601",
+        "descripcion": "CHOMBA HOMBRE",
+        "precio_unitario": "$ 22,000.00",
+        "cantidad": "54",
+        "precio_total": "$ 1,188,000.00",
+        "curva": [
+          {
+            "talle": "S",
+            "cantidad": "10"
+          },
+          {
+            "talle": "M",
+            "cantidad": "15"
+          },
+          {
+            "talle": "L",
+            "cantidad": "15"
+          },
+          {
+            "talle": "XL",
+            "cantidad": "8"
+          },
+          {
+            "talle": "XXL",
+            "cantidad": "6"
+          }
+        ]
+      },
+      {
+        "codigo": "26880",
+        "color": "603",
+        "descripcion": "CAMISA HOMBRE",
+        "precio_unitario": "$ 34,500.00",
+        "cantidad": "36",
+        "precio_total": "$ 1,242,000.00",
+        "curva": [
+          {
+            "talle": "S",
+            "cantidad": "4"
+          },
+          {
+            "talle": "M",
+            "cantidad": "8"
+          },
+          {
+            "talle": "L",
+            "cantidad": "10"
+          },
+          {
+            "talle": "XL",
+            "cantidad": "8"
+          },
+          {
+            "talle": "XXL",
+            "cantidad": "6"
+          }
+        ]
+      },
+      {
+        "codigo": "08865",
+        "color": "987",
+        "descripcion": "REMERA MUJER",
+        "precio_unitario": "$ 14,800.00",
+        "cantidad": "26",
+        "precio_total": "$ 384,800.00",
+        "curva": [
+          {
+            "talle": "S",
+            "cantidad": "6"
+          },
+          {
+            "talle": "M",
+            "cantidad": "6"
+          },
+          {
+            "talle": "L",
+            "cantidad": "6"
+          },
+          {
+            "talle": "XL",
+            "cantidad": "4"
+          },
+          {
+            "talle": "XXL",
+            "cantidad": "4"
+          }
+        ]
+      },
+      {
+        "codigo": "6121019-21B",
+        "color": "",
+        "descripcion": "",
+        "precio_unitario": "$ -347,985.36",
+        "cantidad": "1",
+        "precio_total": "$ -347,985.36",
+        "curva": []
+      }
+    ],
+    "subtotal": "$ 2,551,892.64",
+    "iva": "$ 535,897.45",
+    "percepciones": "$ 0.00",
+    "total": "$ 3,087,790.09"
+  },
+  {
+    "factura": "17936",
+    "remito": "135848",
+    "fecha": "29/07/2025",
+    "articulos": [
+      {
+        "codigo": "04478",
+        "color": "665",
+        "descripcion": "CHOMBA HOMBRE",
+        "precio_unitario": "$ 21,000.00",
+        "cantidad": "59",
+        "precio_total": "$ 1,239,000.00",
+        "curva": [
+          {
+            "talle": "S",
+            "cantidad": "4"
+          },
+          {
+            "talle": "M",
+            "cantidad": "7"
+          },
+          {
+            "talle": "L",
+            "cantidad": "11"
+          },
+          {
+            "talle": "XL",
+            "cantidad": "12"
+          },
+          {
+            "talle": "XXL",
+            "cantidad": "11"
+          },
+          {
+            "talle": "XXX",
+            "cantidad": "7"
+          },
+          {
+            "talle": "4XL",
+            "cantidad": "7"
+          }
+        ]
+      },
+      {
+        "codigo": "26854",
+        "color": "719",
+        "descripcion": "CAMSA HOMBRE",
+        "precio_unitario": "$ 30,500.00",
+        "cantidad": "46",
+        "precio_total": "$ 1,403,000.00",
+        "curva": [
+          {
+            "talle": "S",
+            "cantidad": "4"
+          },
+          {
+            "talle": "M",
+            "cantidad": "8"
+          },
+          {
+            "talle": "L",
+            "cantidad": "8"
+          },
+          {
+            "talle": "XL",
+            "cantidad": "8"
+          },
+          {
+            "talle": "XXL",
+            "cantidad": "6"
+          },
+          {
+            "talle": "XXX",
+            "cantidad": "6"
+          },
+          {
+            "talle": "4XL",
+            "cantidad": "6"
+          }
+        ]
+      },
+      {
+        "codigo": "6121019-21B",
+        "color": "",
+        "descripcion": "",
+        "precio_unitario": "$ -317,040.00",
+        "cantidad": "1",
+        "precio_total": "$ -317,040.00",
+        "curva": []
+      }
+    ],
+    "subtotal": "$ 2,324,960.00",
+    "iva": "$ 488,241.60",
+    "percepciones": "$ 0.00",
+    "total": "$ 2,813,201.60"
+  },
+  {
+    "factura": "17865",
+    "remito": "135772",
+    "fecha": "25/07/2025",
+    "articulos": [
+      {
+        "codigo": "04668",
+        "color": "419",
+        "descripcion": "REMERA HOMBRE",
+        "precio_unitario": "$ 15,450.00",
+        "cantidad": "72",
+        "precio_total": "$ 1,112,400.00",
+        "curva": [
+          {
+            "talle": "XS",
+            "cantidad": "6"
+          },
+          {
+            "talle": "S",
+            "cantidad": "10"
+          },
+          {
+            "talle": "M",
+            "cantidad": "14"
+          },
+          {
+            "talle": "L",
+            "cantidad": "18"
+          },
+          {
+            "talle": "XL",
+            "cantidad": "14"
+          },
+          {
+            "talle": "XXL",
+            "cantidad": "10"
+          }
+        ]
+      },
+      {
+        "codigo": "09070",
+        "color": "602",
+        "descripcion": "REMERA HOMBRE",
+        "precio_unitario": "$ 13,500.00",
+        "cantidad": "46",
+        "precio_total": "$ 621,000.00",
+        "curva": [
+          {
+            "talle": "S",
+            "cantidad": "6"
+          },
+          {
+            "talle": "M",
+            "cantidad": "10"
+          },
+          {
+            "talle": "L",
+            "cantidad": "12"
+          },
+          {
+            "talle": "XL",
+            "cantidad": "10"
+          },
+          {
+            "talle": "XXL",
+            "cantidad": "8"
+          }
+        ]
+      },
+      {
+        "codigo": "09234",
+        "color": "652",
+        "descripcion": "REMERA HOMBRE",
+        "precio_unitario": "$ 12,154.00",
+        "cantidad": "88",
+        "precio_total": "$ 1,069,552.00",
+        "curva": [
+          {
+            "talle": "S",
+            "cantidad": "5"
+          },
+          {
+            "talle": "M",
+            "cantidad": "13"
+          },
+          {
+            "talle": "L",
+            "cantidad": "20"
+          },
+          {
+            "talle": "XL",
+            "cantidad": "15"
+          },
+          {
+            "talle": "XXL",
+            "cantidad": "15"
+          },
+          {
+            "talle": "XXX",
+            "cantidad": "10"
+          },
+          {
+            "talle": "4XL",
+            "cantidad": "10"
+          }
+        ]
+      },
+      {
+        "codigo": "08935",
+        "color": "878",
+        "descripcion": "REMERA MUJER",
+        "precio_unitario": "$ 15,000.00",
+        "cantidad": "22",
+        "precio_total": "$ 330,000.00",
+        "curva": [
+          {
+            "talle": "S",
+            "cantidad": "6"
+          },
+          {
+            "talle": "M",
+            "cantidad": "6"
+          },
+          {
+            "talle": "L",
+            "cantidad": "6"
+          },
+          {
+            "talle": "XL",
+            "cantidad": "4"
+          }
+        ]
+      },
+      {
+        "codigo": "6121019-21B",
+        "color": "",
+        "descripcion": "",
+        "precio_unitario": "$ -375,954.24",
+        "cantidad": "1",
+        "precio_total": "$ -375,954.24",
+        "curva": []
+      }
+    ],
+    "subtotal": "$ 2,756,997.76",
+    "iva": "$ 578,969.53",
+    "percepciones": "$ 0.00",
+    "total": "$ 3,335,967.29"
+  },
+  {
+    "factura": "17867",
+    "remito": "135774",
+    "fecha": "25/07/2025",
+    "articulos": [
+      {
+        "codigo": "04478",
+        "color": "602",
+        "descripcion": "CHOMBA HOMBRE",
+        "precio_unitario": "$ 21,000.00",
+        "cantidad": "54",
+        "precio_total": "$ 1,134,000.00",
+        "curva": [
+          {
+            "talle": "M",
+            "cantidad": "10"
+          },
+          {
+            "talle": "L",
+            "cantidad": "16"
+          },
+          {
+            "talle": "XL",
+            "cantidad": "16"
+          },
+          {
+            "talle": "XXL",
+            "cantidad": "6"
+          },
+          {
+            "talle": "XXX",
+            "cantidad": "6"
+          }
+        ]
+      },
+      {
+        "codigo": "16710",
+        "color": "603",
+        "descripcion": "CHOMBA HOMBRE",
+        "precio_unitario": "$ 22,000.00",
+        "cantidad": "77",
+        "precio_total": "$ 1,694,000.00",
+        "curva": [
+          {
+            "talle": "S",
+            "cantidad": "6"
+          },
+          {
+            "talle": "M",
+            "cantidad": "15"
+          },
+          {
+            "talle": "L",
+            "cantidad": "15"
+          },
+          {
+            "talle": "XL",
+            "cantidad": "15"
+          },
+          {
+            "talle": "XXL",
+            "cantidad": "10"
+          },
+          {
+            "talle": "XXX",
+            "cantidad": "8"
+          },
+          {
+            "talle": "4XL",
+            "cantidad": "8"
+          }
+        ]
+      },
+      {
+        "codigo": "19772",
+        "color": "603",
+        "descripcion": "CHOMBA HOMBRE",
+        "precio_unitario": "$ 22,000.00",
+        "cantidad": "40",
+        "precio_total": "$ 880,000.00",
+        "curva": [
+          {
+            "talle": "M",
+            "cantidad": "10"
+          },
+          {
+            "talle": "L",
+            "cantidad": "10"
+          },
+          {
+            "talle": "XL",
+            "cantidad": "10"
+          },
+          {
+            "talle": "XXL",
+            "cantidad": "10"
+          }
+        ]
+      },
+      {
+        "codigo": "08935",
+        "color": "878",
+        "descripcion": "REMERA MUJER",
+        "precio_unitario": "$ 15,000.00",
+        "cantidad": "4",
+        "precio_total": "$ 60,000.00",
+        "curva": [
+          {
+            "talle": "XXL",
+            "cantidad": "4"
+          }
+        ]
+      },
+      {
+        "codigo": "6121019-21B",
+        "color": "",
+        "descripcion": "",
+        "precio_unitario": "$ -452,160.00",
+        "cantidad": "1",
+        "precio_total": "$ -452,160.00",
+        "curva": []
+      }
+    ],
+    "subtotal": "$ 3,315,840.00",
+    "iva": "$ 696,326.40",
+    "percepciones": "$ 0.00",
+    "total": "$ 4,012,166.40"
   }
 ]
